@@ -57,4 +57,3 @@ if (passengerAge > 65) {
     
     var prezzoViaggio = (prezzoKm).toFixed(2);
  }
-
